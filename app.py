@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 
 # Dataset from kaggle
 df = pd.read_csv("National Universities Rankings.csv")
